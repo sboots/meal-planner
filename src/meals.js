@@ -11,6 +11,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -23,6 +24,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -35,6 +37,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -47,6 +50,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -59,6 +63,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -71,6 +76,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -83,6 +89,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -95,6 +102,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -107,6 +115,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -119,6 +128,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 2,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -131,6 +141,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -143,6 +154,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -155,6 +167,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -167,6 +180,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -179,6 +193,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -191,6 +206,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -203,6 +219,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -215,6 +232,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -227,6 +245,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -239,6 +258,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -251,6 +271,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -263,6 +284,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -275,6 +297,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -287,6 +310,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -299,6 +323,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -311,6 +336,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -323,6 +349,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -335,6 +362,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 2,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -347,6 +375,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -359,6 +388,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -371,6 +401,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -379,10 +410,11 @@ const meals = [
     "primaryStarch": "",
     "rating": 5,
     "source": "other",
-    "sourceDetails": "Website",
-    "url": "",
+    "sourceDetails": "Piping Pot Curry",
+    "url": "https://pipingpotcurry.com/instant-pot-chana-dal/",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -395,6 +427,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -407,6 +440,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -416,9 +450,10 @@ const meals = [
     "rating": 3,
     "source": "other",
     "sourceDetails": "Minimalist Baker",
-    "url": "",
+    "url": "https://minimalistbaker.com/easy-tofu-pad-thai/",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -431,6 +466,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -443,6 +479,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -455,6 +492,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -467,6 +505,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -479,6 +518,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -491,6 +531,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -503,6 +544,7 @@ const meals = [
     "url": "",
     "pageNumber": 124,
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -515,6 +557,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -527,6 +570,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -539,6 +583,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -551,6 +596,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -563,6 +609,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -575,6 +622,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -587,6 +635,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -599,6 +648,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -611,6 +661,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -623,6 +674,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -635,6 +687,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -647,6 +700,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -659,6 +713,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -671,6 +726,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -683,18 +739,20 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
     "recipe": "Malaysian ramen",
     "genre": "asian",
     "primaryStarch": "noodles",
-    "rating": 4,
+    "rating": 5,
     "source": "indianish",
     "sourceDetails": "",
     "url": "",
     "pageNumber": "",
     "multiplier": 2,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -707,6 +765,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -719,6 +778,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -731,6 +791,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -743,6 +804,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -755,6 +817,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -767,6 +830,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -779,6 +843,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -791,6 +856,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -803,6 +869,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -815,6 +882,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -827,6 +895,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -839,6 +908,7 @@ const meals = [
     "url": "",
     "pageNumber": 153,
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -851,6 +921,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-06-25",
     "notes": ""
   },
   {
@@ -863,6 +934,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-08-01",
     "notes": ""
   },
   {
@@ -875,6 +947,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-08-01",
     "notes": ""
   },
   {
@@ -887,6 +960,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-08-01",
     "notes": ""
   },
   {
@@ -899,6 +973,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-08-01",
     "notes": ""
   },
   {
@@ -911,6 +986,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-08-01",
     "notes": ""
   },
   {
@@ -923,6 +999,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-08-01",
     "notes": ""
   },
   {
@@ -935,6 +1012,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -947,6 +1025,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -959,6 +1038,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -971,6 +1051,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -982,7 +1063,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -994,7 +1076,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 251,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1006,7 +1089,8 @@ const meals = [
     "sourceDetails": "thai cookbook (Heather's iPhone)",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1018,7 +1102,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1030,7 +1115,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 281,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1042,11 +1128,12 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
-    "recipe": "Harissa and lime halloumi",
+    "recipe": "Harissa and lime halloumi flatbreads",
     "genre": "mediterranean",
     "primaryStarch": "",
     "rating": 5,
@@ -1054,7 +1141,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 272,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1066,7 +1154,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 314,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1078,7 +1167,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 319,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1090,7 +1180,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 332,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1102,7 +1193,8 @@ const meals = [
     "sourceDetails": "Gordon Ramsay masterclass",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1114,7 +1206,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1126,7 +1219,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1138,7 +1232,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 234,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": "Yogurt on pg. 273, flatbread on page 456"
   },
   {
@@ -1150,7 +1245,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 113,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1162,7 +1258,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1174,7 +1271,8 @@ const meals = [
     "sourceDetails": "Ottolenghi masterclass",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1186,7 +1284,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 248,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1198,7 +1297,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 115,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1210,7 +1310,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 409,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1222,7 +1323,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 352,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": "Can swap out veggies"
   },
   {
@@ -1234,7 +1336,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 364,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1246,7 +1349,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1258,7 +1362,8 @@ const meals = [
     "sourceDetails": "from Kim by email",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1270,7 +1375,8 @@ const meals = [
     "sourceDetails": "from Kim by email",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1282,7 +1388,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 410,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1294,7 +1401,8 @@ const meals = [
     "sourceDetails": "from Vicki by email",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1306,7 +1414,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1318,7 +1427,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": "Mushroom bacon from the vegan mac and cheese recipe"
   },
   {
@@ -1330,7 +1440,8 @@ const meals = [
     "sourceDetails": "America's Test Kitchen",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1343,6 +1454,7 @@ const meals = [
     "url": "",
     "pageNumber": "",
     "multiplier": 2,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1354,7 +1466,8 @@ const meals = [
     "sourceDetails": "Ali Slaigle",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1366,7 +1479,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 119,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1378,7 +1492,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 134,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1390,7 +1505,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 92,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1402,7 +1518,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 104,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1414,7 +1531,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 90,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1426,7 +1544,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 106,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1438,11 +1557,12 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 137,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
-    "recipe": "Smokey feta and peas",
+    "recipe": "Smokey feta and pea spread",
     "genre": "side",
     "primaryStarch": "",
     "rating": 5,
@@ -1450,7 +1570,8 @@ const meals = [
     "sourceDetails": "Ottolenghi masterclass",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1462,7 +1583,8 @@ const meals = [
     "sourceDetails": "Ottolenghi masterclass",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1474,7 +1596,8 @@ const meals = [
     "sourceDetails": "Ottolenghi masterclass",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1486,7 +1609,8 @@ const meals = [
     "sourceDetails": "Ottolenghi masterclass",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1498,7 +1622,8 @@ const meals = [
     "sourceDetails": "Ottolenghi masterclass",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1510,7 +1635,8 @@ const meals = [
     "sourceDetails": "Ottolenghi masterclass",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1522,7 +1648,8 @@ const meals = [
     "sourceDetails": "Ottolenghi masterclass",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1534,7 +1661,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 232,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1546,7 +1674,8 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 186,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
@@ -1558,19 +1687,671 @@ const meals = [
     "sourceDetails": "",
     "url": "",
     "pageNumber": 160,
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
     "notes": ""
   },
   {
-    "recipe": "Saganaki",
+    "recipe": "Saganaki with greek salad",
     "genre": "side",
     "primaryStarch": "",
     "rating": 5,
     "source": "other",
-    "sourceDetails": "",
+    "sourceDetails": "Olive Tomato website",
+    "url": "https://www.olivetomato.com/saganaki-greek-fried-cheese/",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2020-08-05",
+    "notes": "Heather's Greek salad"
+  },
+  {
+    "recipe": "Cajun potatoes and fish",
+    "genre": "other",
+    "primaryStarch": "potato",
+    "rating": 5,
+    "source": "other",
+    "sourceDetails": "Heather",
     "url": "",
     "pageNumber": "",
-    "multiplier": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": "Carla Lalli Music for fish advice"
+  },
+  {
+    "recipe": "Ginger salmon",
+    "genre": "other",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "nyt cooking",
+    "sourceDetails": "",
+    "url": "https://cooking.nytimes.com/recipes/1021938-ginger-dill-salmon?action=click&module=RecipeBox&pgType=recipebox-page&region=all&rank=9",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": ""
+  },
+  {
+    "recipe": "Baked peanut tofu",
+    "genre": "asian",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "nyt cooking",
+    "sourceDetails": "",
+    "url": "https://cooking.nytimes.com/recipes/1020530-baked-tofu-with-peanut-sauce-and-coconut-lime-rice?action=click&module=RecipeBox&pgType=recipebox-page&region=all&rank=47",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": ""
+  },
+  {
+    "recipe": "Thai curry risotto",
+    "genre": "asian",
+    "primaryStarch": "rice",
+    "rating": 3,
+    "source": "nyt cooking",
+    "sourceDetails": "",
+    "url": "https://cooking.nytimes.com/recipes/1021947-thai-curry-risotto-with-squash-and-green-beans?action=click&module=RecipeBox&pgType=recipebox-page&region=all&rank=8",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": ""
+  },
+  {
+    "recipe": "Shrimp tacos",
+    "genre": "mexican",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "nyt cooking",
+    "sourceDetails": "",
+    "url": "https://cooking.nytimes.com/recipes/1013581-shrimp-and-mango-tacos?action=click&module=RecipeBox&pgType=recipebox-page&region=all&rank=12",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": ""
+  },
+  {
+    "recipe": "Genmai miso soup",
+    "genre": "asian",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "rebar",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 122,
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": ""
+  },
+  {
+    "recipe": "Salmon and couscous salad",
+    "genre": "other",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "nyt cooking",
+    "sourceDetails": "",
+    "url": "https://cooking.nytimes.com/recipes/1021970-salmon-and-couscous-salad-with-cucumber-feta-dressing?action=click&module=RecipeBox&pgType=recipebox-page&region=all&rank=7",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": ""
+  },
+  {
+    "recipe": "Arugula fig naan pizzas",
+    "genre": "other",
+    "primaryStarch": "naan",
+    "rating": 3,
+    "source": "modern cook's year",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 236,
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": "Unclear origins, Heather concoction"
+  },
+  {
+    "recipe": "Roasted veggies",
+    "genre": "other",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "other",
+    "sourceDetails": "Heather",
+    "url": "",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": ""
+  },
+  {
+    "recipe": "Mushroom ragout",
+    "genre": "mediterranean",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "other",
+    "sourceDetails": "Ottolenghi",
+    "url": "",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": "From Plenty, just put on toast"
+  },
+  {
+    "recipe": "Black pepper tofu",
+    "genre": "asian",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "other",
+    "sourceDetails": "Ottolenghi",
+    "url": "",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": "From Plenty"
+  },
+  {
+    "recipe": "King Arthur slider buns",
+    "genre": "side",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "other",
+    "sourceDetails": "King Arthur Flour website",
+    "url": "https://www.kingarthurbaking.com/recipes/beautiful-burger-buns-recipe",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": ""
+  },
+  {
+    "recipe": "Sesame & green olive bars",
+    "genre": "side",
+    "primaryStarch": "",
+    "rating": 3,
+    "source": "modern cook's year",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 90,
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": ""
+  },
+  {
+    "recipe": "Easter egg veggie tart",
+    "genre": "other",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "modern cook's year",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 120,
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": ""
+  },
+  {
+    "recipe": "Soba with mango and eggplant",
+    "genre": "asian",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "other",
+    "sourceDetails": "Ottolenghi",
+    "url": "",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": "From Plenty"
+  },
+  {
+    "recipe": "Crushed new potatoes, broccoli, and blood orange cream",
+    "genre": "other",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "modern cook's year",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 110,
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": ""
+  },
+  {
+    "recipe": "Yotam's OG shakshuka",
+    "genre": "mediterranean",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "other",
+    "sourceDetails": "Ottolenghi",
+    "url": "",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": "From Plenty"
+  },
+  {
+    "recipe": "Saffron cauliflower",
+    "genre": "mediterranean",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "other",
+    "sourceDetails": "Ottolenghi",
+    "url": "",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": "From Plenty"
+  },
+  {
+    "recipe": "Potato vindaloo",
+    "genre": "indian",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "other",
+    "sourceDetails": "Ottolenghi",
+    "url": "",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": "From Plenty"
+  },
+  {
+    "recipe": "Pasta with sausages, mushrooms, and vodka sauce",
+    "genre": "italian",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "other",
+    "sourceDetails": "Jane Cooks",
+    "url": "",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": "Random Instagram influencer"
+  },
+  {
+    "recipe": "Onion quiche",
+    "genre": "other",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "other",
+    "sourceDetails": "Heather",
+    "url": "",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-06",
+    "notes": "With caramelized onions"
+  },
+  {
+    "recipe": "Butter chicken nachos",
+    "genre": "indian",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "other",
+    "sourceDetails": "Hot for Food 2",
+    "url": "",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": "Took out from the library"
+  },
+  {
+    "recipe": "Jackfruit sabzi",
+    "genre": "asian",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "nyt cooking",
+    "sourceDetails": "",
+    "url": "https://cooking.nytimes.com/recipes/1022260-jackfruit-sabzi?action=click&module=RecipeBox&pgType=recipebox-page&region=all&rank=3",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "One pot mac & cheese with buffalo chicken",
+    "genre": "other",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "other",
+    "sourceDetails": "Hot for Food 2",
+    "url": "",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Korean BBQ burritos with cauliflower rice",
+    "genre": "asian",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "other",
+    "sourceDetails": "Hot for Food 2",
+    "url": "",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Ben Ben Noodles",
+    "genre": "asian",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "east",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 77,
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Paneer aloo gobi",
+    "genre": "indian",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "east",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 111,
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Summer pilau",
+    "genre": "asian",
+    "primaryStarch": "",
+    "rating": 3,
+    "source": "east",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 141,
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Mapo tofu",
+    "genre": "asian",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "east",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 171,
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Cauliflower ceviche",
+    "genre": "other",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "nyt cooking",
+    "sourceDetails": "",
+    "url": "https://cooking.nytimes.com/recipes/1022397-cauliflower-ceviche?action=click&module=RecipeBox&pgType=recipebox-page&region=cauliflower&rank=1",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Charred courgettes and tofu with lemon, basil, and goat cheese on flatbread",
+    "genre": "other",
+    "primaryStarch": "",
+    "rating": 3,
+    "source": "modern cook's year",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 170,
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": "BBQ courgette instructions on page 275"
+  },
+  {
+    "recipe": "Peanut broccoli and broccoli pad thai",
+    "genre": "asian",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "east",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 178,
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Green onion and ginger noodles",
+    "genre": "asian",
+    "primaryStarch": "",
+    "rating": 1,
+    "source": "east",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 90,
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Indian butter chickpeas",
+    "genre": "indian",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "nyt cooking",
+    "sourceDetails": "",
+    "url": "https://cooking.nytimes.com/recipes/1020739-indian-butter-chickpeas?action=click&module=RecipeBox&pgType=recipebox-page&region=indian&rank=1",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Mouth-numbing noodles with red cabbage and chili oil",
+    "genre": "asian",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "east",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 81,
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Pizza dough",
+    "genre": "other",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "other",
+    "sourceDetails": "King Arthur Flour website",
+    "url": "https://www.kingarthurbaking.com/recipes/the-easiest-pizza-youll-ever-make-recipe",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": "Freeze rolled out, not in a ball"
+  },
+  {
+    "recipe": "Lentil and split pea soup",
+    "genre": "other",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "rebar",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 172,
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Shrimp bisque",
+    "genre": "other",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "nyt cooking",
+    "sourceDetails": "",
+    "url": "https://cooking.nytimes.com/recipes/1021453-spicy-tomato-coconut-bisque-with-shrimp-and-mushrooms?action=click&module=RecipeBox&pgType=recipebox-page&region=all&rank=1",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Instant pot green curry",
+    "genre": "asian",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "other",
+    "sourceDetails": "Graham's recipe",
+    "url": "",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Crispy bean cakes with harissa, lemon, and herbs",
+    "genre": "asian",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "nyt cooking",
+    "sourceDetails": "Yewande Komolafe",
+    "url": "https://cooking.nytimes.com/recipes/1021370-crispy-bean-cakes-with-harissa-lemon-and-herbs?action=click&module=RecipeBox&pgType=recipebox-page&region=all&rank=0",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Cranberry nut bread",
+    "genre": "side",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "nyt cooking",
+    "sourceDetails": "",
+    "url": "https://cooking.nytimes.com/recipes/3044-cranberry-nut-bread",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Cranberry muffins",
+    "genre": "side",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "",
+    "sourceDetails": "",
+    "url": "https://www.crumbtopbaking.com/partridgeberry-muffins/#tasty-recipes-6803-jump-target",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Red bean stew with friend onions and cilantro",
+    "genre": "asian",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "nyt cooking",
+    "sourceDetails": "",
+    "url": "https://cooking.nytimes.com/recipes/1019186-red-bean-stew-with-fried-onions-and-cilantro?action=click&module=Local%20Search%20Recipe%20Card&pgType=search&rank=2",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Potato and pea curry",
+    "genre": "indian",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "other",
+    "sourceDetails": "",
+    "url": "https://www.bbc.co.uk/food/recipes/potato_and_pea_curry_19537",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Mozzarella with charred snap peas",
+    "genre": "mediterranean",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "where cooking begins",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 87,
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": "Note: don't use pizza mozzarrella, get fresh mozza"
+  },
+  {
+    "recipe": "Omelet with ricotta",
+    "genre": "other",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "where cooking begins",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 120,
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Pasta with cauliflower and big bread crumbs",
+    "genre": "italian",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "where cooking begins",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 141,
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Any fruit galette",
+    "genre": "dessert",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "where cooking begins",
+    "sourceDetails": "",
+    "url": "",
+    "pageNumber": 242,
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Tarts with caramelized onion",
+    "genre": "side",
+    "primaryStarch": "",
+    "rating": 5,
+    "source": "nyt cooking",
+    "sourceDetails": "",
+    "url": "https://cooking.nytimes.com/recipes/1017870-little-onion-tarts-with-gorgonzola-and-walnuts?action=click&module=Local%20Search%20Recipe%20Card&pgType=search&rank=7",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
+    "notes": ""
+  },
+  {
+    "recipe": "Roasted beet salad with gorgonzola",
+    "genre": "other",
+    "primaryStarch": "",
+    "rating": 4,
+    "source": "other",
+    "sourceDetails": "Heather",
+    "url": "",
+    "pageNumber": "",
+    "multiplier": 1,
+    "dateAdded": "2021-11-07",
     "notes": ""
   }
 ];

@@ -22,6 +22,11 @@ class Day extends React.Component {
             : page {currentMeal.pageNumber}
             </>
           }
+          {currentMeal.url.length > 0 &&
+            <>
+             &nbsp;<a href={currentMeal.url} target="_blank" rel="noopener noreferrer">open</a>
+            </>
+          }
         </small>
       </div>
     );
