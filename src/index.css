@@ -23,3 +23,7 @@ code {
 .day p {
   margin: 0.1em 0;
 }
+
+.source-name {
+  font-variant: small-caps;
+}

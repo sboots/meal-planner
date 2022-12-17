@@ -11,7 +11,7 @@ class Day extends React.Component {
         <h3>Day {currentDay}</h3>
         <p>{currentMeal.recipe}</p>
         <small>
-          {currentMeal.source}
+          <span className="source-name">{currentMeal.source}</span>
           {currentMeal.sourceDetails.length > 0 &&
             <>
             : {currentMeal.sourceDetails}
@@ -25,6 +25,31 @@ class Day extends React.Component {
           {currentMeal.url.length > 0 &&
             <>
              &nbsp;<a href={currentMeal.url} target="_blank" rel="noopener noreferrer">open</a>
+            </>
+          }
+          {currentMeal.rating === 5 &&
+            <>
+             <br/>⭑⭑⭑⭑⭑
+            </>
+          }
+          {currentMeal.rating === 4 &&
+            <>
+             <br/>⭑⭑⭑⭑
+            </>
+          }
+          {currentMeal.rating === 3 &&
+            <>
+             <br/>⭑⭑⭑
+            </>
+          }
+          {currentMeal.rating === 2 &&
+            <>
+             <br/>⭑⭑
+            </>
+          }
+          {currentMeal.rating === 1 &&
+            <>
+             <br/>⭑
             </>
           }
         </small>
